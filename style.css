@@ -1,0 +1,60 @@
+body{
+
+}
+a #learnmore{
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+}
+#bg{
+  background-image: url('https://usersnap.com/blog/wp-content/uploads/2017/04/web-design-background.png');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+nav{
+  height: 80px;
+}
+.header-text{
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.header-content{
+  width: 100%;
+}
+.sample-content{
+    padding-top: 100px;
+}
+.benefit-row{
+  padding-top: 50px;
+}
+.benefit-content i{
+  color: #3e90ed;
+  font-size: 100px;
+  text-align: justify;
+
+}
+.benefit-section{
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.contact-title{
+  padding-bottom: 40px;
+}
+.text-white{
+  color: white;
+}
+.contact-section{
+  padding-bottom: 50px;
+}
+.logo i{
+  font-size: 25px;
+  color: #3e90ed;
+}
+.section-footer{
+  margin-bottom: 100px;
+}
+.bg-dark{
+  background-image: url('https://usersnap.com/blog/wp-content/uploads/2017/04/web-design-background.png');
+
+}
